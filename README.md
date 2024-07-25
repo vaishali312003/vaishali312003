@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @vaishali312003
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-vaishali312003/vaishali312003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @vaishali312003
+👀 I’m interested in Machine Learning and Artificial Intelligence.
+🌱 I’m currently exploring and learning new concepts in ML and AI.
+💞️ I’m looking to collaborate on projects involving ML and AI, contributing my skills and knowledge.
+📫 How to reach me: Email at vagupta310@gmail.com
+😄 Pronouns: she/her
+⚡ Fun fact: I learn best through hands-on practical experience!
