@@ -24,6 +24,16 @@ https://leetcode.com/u/vaishali331/
 ✨MY PROJECTS:
 🗑Eco Track:Real-Time Waste Recognition System with Streamlit, CNN, and JSON.classify waste items into organic and recyclable categories based on uploaded images. User data is stored in JSON format for real-time database management.
 VISIT:https://github.com/vaishali312003/TRY?tab=readme-ov-file
+📃LISTLOOM: Seamlessly Weave Your Tasks
+
+Features:
+
+Focus Mode: Stay on track with a distraction-free environment. Focus Mode helps you zero in on your most important tasks by minimizing interruptions and streamlining your view.
+
+Dark Mode: Choose a sleek, eye-friendly dark theme for late-night productivity or to reduce eye strain during extended use.
+
+Priority Scheduling: Organize your tasks with ease using priority levels. ListLoom lets you categorize and prioritize tasks so you can tackle what matters most first.
+VISIT:https://list-loom-nine.vercel.app/
 
 
 
