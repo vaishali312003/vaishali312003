@@ -45,7 +45,7 @@ LeetCode -[Vaishali Gupta](https://leetcode.com/u/vaishali331/)
 Real-Time Waste Recognition System with Streamlit, CNN, and JSON. Classify waste items into organic and recyclable categories based on uploaded images. User data is stored in JSON format for real-time database management.
 
 ### VISIT: 
-Eco Track on GitHub
+[Eco Track on GitHub](https://github.com/vaishali312003/TRY)
 
 ## 📃 LISTLOOM: Seamlessly Weave Your Tasks
 
