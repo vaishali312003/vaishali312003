@@ -1,5 +1,7 @@
-👋 Hi, I’m Vaishali Gupta @vaishali312003
+👋 Hi, I’m @vaishali312003
 
+
+![Fun GIF](giphy.gif)
 
 👀 Interests:
 I’m interested in Machine Learning and Artificial Intelligence.
@@ -17,4 +19,4 @@ Email: vagupta310@gmail.com
 She/Her
 
 ⚡ Fun Fact:
-I learn best through hands-on practical experience!
+I learn best through hands-on practical experienc
