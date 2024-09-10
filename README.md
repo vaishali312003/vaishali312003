@@ -10,15 +10,15 @@ I’m interested in Machine Learning and Artificial Intelligence.
 
 ## ⚔🛠 Skills:
 
-## Programming Languages: 
-Python, Java, C++
-## Machine Learning & AI: 
-TensorFlow, Keras, scikit-learn, NumPy, Pandas
-## Web Development:
+### **Programming Languages:** Python, Java, C++
+
+###  Machine Learning & AI: ** TensorFlow, Keras, scikit-learn, NumPy, Pandas
+
+### Web Development:
 Streamlit, Flask, HTML/CSS
-## Data Handling:
+### Data Handling:
 JSON, CSV
-## 🌱 Current Focus: 
+### 🌱 Current Focus: 
 I’m currently exploring and learning new concepts in Machine Learning, Artificial Intelligence, Data Structures and Algorithms (DSA), and Java.
 
 ## 🧐 Collaboration: 
