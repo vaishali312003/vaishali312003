@@ -3,7 +3,7 @@
 
 # 👋 Hi, I’m @vaishali312003
 
-
+![Fun GIF](giphy.gif)
 
 ## 👀 Interests:
 I’m interested in Machine Learning and Artificial Intelligence.
