@@ -39,7 +39,7 @@ Priority Scheduling: Organize your tasks with ease using priority levels. ListLo
 VISIT: [LISTLOOM APP](https://list-loom-nine.vercel.app/)
 
 
-PROJECT LINK: [ListLoom on GitHub] (https://github.com/vaishali312003/ListLoom)
+PROJECT LINK: [ListLoom on GitHub](https://github.com/vaishali312003/ListLoom)
 
 😄 Pronouns: She/Her
 
