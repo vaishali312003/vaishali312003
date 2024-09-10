@@ -9,8 +9,11 @@ I’m interested in Machine Learning and Artificial Intelligence.
 ⚔🛠 Skills:
 
 Programming Languages: Python, Java, C++
+
 Machine Learning & AI: TensorFlow, Keras, scikit-learn, NumPy, Pandas
+
 Web Development: Streamlit, Flask, HTML/CSS
+
 Data Handling: JSON, CSV
 
 
