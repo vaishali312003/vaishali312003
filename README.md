@@ -10,16 +10,16 @@ I’m interested in Machine Learning and Artificial Intelligence.
 
 ## ⚔🛠 Skills:
 
-### **Programming Languages:**
+ **Programming Languages:**
 **Python**, **Java**, **C++**
 
-### **Machine Learning & AI:**
+ **Machine Learning & AI:**
 **TensorFlow**, **Keras**, **scikit-learn**, **NumPy**, **Pandas**
 
-### **Web Development:**
+ **Web Development:**
 **Streamlit**, **Flask**, **HTML/CSS**
 
-### **Data Handling:**
+ **Data Handling:**
 **JSON**, **CSV**
 
 ### 🌱 Current Focus: 
