@@ -23,7 +23,7 @@ https://leetcode.com/u/vaishali331/
 
 ✨MY PROJECTS:
 🗑Eco Track:Real-Time Waste Recognition System with Streamlit, CNN, and JSON.classify waste items into organic and recyclable categories based on uploaded images. User data is stored in JSON format for real-time database management.
-VISIT:https://github.com/vaishali312003/TRY?tab=readme-ov-file#welcome-to-the-real-time-waste-recognition-system-this-project-utilizes-streamlit-and-a-convolutional-neural-network-cnn-to-classify-waste-items-into-organic-and-recyclable-categories-based-on-uploaded-images-user-data-is-stored-in-json-format-for-real-time-database-management
+VISIT:https://github.com/vaishali312003/TRY?tab=readme-ov-file
 
 
 
