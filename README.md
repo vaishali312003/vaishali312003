@@ -1,7 +1,7 @@
 
 
 
-# 👋 Hi, I’m @vaishali312003
+# 👋 Hi, I’m [Vaishali Gupta](https://github.com/vaishali312003)
 
 ![Fun GIF](giphy.gif)
 
