@@ -67,7 +67,7 @@ Organize your tasks with ease using priority levels. ListLoom lets you categoriz
 ### PROJECT LINK:
 [ListLoom on GitHub](https://github.com/vaishali312003/ListLoom)
 ### TEXT TO SQL(CONTRIBUTED PROJECT):
-[repository linl](https://github.com/Darshikartisto/Text_To_SQL)
+[repository link](https://github.com/Darshikartisto/Text_To_SQL)
 
 😄 Pronouns: She/Her
 
