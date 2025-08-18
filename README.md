@@ -5,8 +5,6 @@
 
 ![Fun GIF](giphy.gif)
 
-## 👀 Interests:
-I’m interested in Machine Learning and Artificial Intelligence.
 
 ## ⚔🛠 Skills:
 
