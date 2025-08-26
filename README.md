@@ -20,11 +20,6 @@
  **Data Handling:**
 **JSON**, **CSV**
 
-### 🌱 Current Focus: 
-I’m currently exploring and learning new concepts in Machine Learning, Artificial Intelligence, Data Structures and Algorithms (DSA), and Java.
-
-## 🧐 Collaboration: 
-I’m looking to collaborate on projects involving ML and AI, contributing my skills and knowledge.
 
 ## 📫 Contact:
 
