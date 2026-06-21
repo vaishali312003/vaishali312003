@@ -1,4 +1,4 @@
-[portfolio-orpin-nine-40.vercel.app]
+portfolio-orpin-nine-40.vercel.app
 
 
 # 👋 Hi, I’m [Vaishali Gupta](https://github.com/vaishali312003)
