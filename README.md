@@ -1,4 +1,3 @@
-portfolio-orpin-nine-40.vercel.app
 
 
 # 👋 Hi, I’m [Vaishali Gupta](https://github.com/vaishali312003)
@@ -66,7 +65,10 @@ Organize your tasks with ease using priority levels. ListLoom lets you categoriz
 [APP ON GITHUB](https://github.com/vaishali312003/VECHILE_CARE_PORTAL_APP).
 
 
+[PORTFOLIO](https://portfolio-orpin-nine-40.vercel.app/)
+
 😄 Pronouns: She/Her
 
 ⚡ Fun Fact: I learn best through hands-on practical experiences.
+
 
